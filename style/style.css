@@ -85,3 +85,26 @@ body{
     text-align: center;
     color: gray;
 }
+.food-img{
+    display: flex;
+}
+.bottom{
+    margin-top: 100;
+    height: 250px;
+    margin: 0px;
+    background-color: black;
+}
+.h1-bottom{
+    color:gray;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.bottom-color{
+    color: rgb(247, 129, 34);
+}
+.h3-bottom{
+    text-align: center;
+    color: honeydew;
+    font-size: 20px;
+}
